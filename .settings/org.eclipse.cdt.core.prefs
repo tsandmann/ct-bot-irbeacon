@@ -1,0 +1,20 @@
+#Wed Feb 17 14:58:27 CET 2010
+eclipse.preferences.version=1
+environment/project/de.innot.avreclipse.configuration.app.debug.438804091=
+environment/project/de.innot.avreclipse.configuration.app.debug.438804091/AVRTARGETFCPU/delimiter=\:
+environment/project/de.innot.avreclipse.configuration.app.debug.438804091/AVRTARGETFCPU/operation=replace
+environment/project/de.innot.avreclipse.configuration.app.debug.438804091/AVRTARGETFCPU/value=8000000
+environment/project/de.innot.avreclipse.configuration.app.debug.438804091/AVRTARGETMCU/delimiter=\:
+environment/project/de.innot.avreclipse.configuration.app.debug.438804091/AVRTARGETMCU/operation=replace
+environment/project/de.innot.avreclipse.configuration.app.debug.438804091/AVRTARGETMCU/value=attiny25
+environment/project/de.innot.avreclipse.configuration.app.debug.438804091/append=true
+environment/project/de.innot.avreclipse.configuration.app.debug.438804091/appendContributed=true
+indexer/filesToParseUpFront=stdarg.h, stddef.h, sys/types.h
+indexer/indexAllFiles=true
+indexer/indexUnusedHeadersWithDefaultLang=true
+indexer/indexerId=org.eclipse.cdt.core.fastIndexer
+indexer/skipImplicitReferences=false
+indexer/skipMacroReferences=false
+indexer/skipReferences=false
+indexer/skipTypeReferences=false
+indexer/useHeuristicIncludeResolution=true
